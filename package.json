@@ -1,0 +1,10 @@
+{
+  "name": "janakamwm-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
